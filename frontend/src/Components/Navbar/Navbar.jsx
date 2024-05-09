@@ -2,8 +2,8 @@ import React, { useState } from 'react'
 import './Navbar.css'
 import logo from '../Assets/logo1.png'
 import cart_icon from '../Assets/cart_icon.png'
-import wishlist from '../Assets/wishlist.png'
-import profile from '../Assets/profile.png'
+// import wishlist from '../Assets/wishlist.png'
+// import profile from '../Assets/profile.png'
 import { Link } from 'react-router-dom'
 const Navbar = () => {
 
