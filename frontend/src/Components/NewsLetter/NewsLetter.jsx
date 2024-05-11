@@ -2,7 +2,7 @@ import React from 'react'
 import './NewsLetter.css'
 const NewsLetter = () => {
   return (
-    <div className='newsLetter'>
+    <div className='newsletter'>
       <h1>Get Exclusive Offers On Your E-mail</h1>
       <p>Subscribe to our newsletter and stay updated</p>
       <div>

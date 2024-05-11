@@ -38,32 +38,32 @@ const data_product = [
     },
     {
       id: 5,
-      name: "Kids Knitted Sweater",
+      name: "Kid's Denim Jacket",
       image: p9_img,
       new_price: 899,
       old_price: 1699,
     },
     {
       id: 6,
-      name: "Kids Knitted Sweater",
+      name: "Men's Denim Jacket",
       image: p10_img,
-      new_price: 899,
+      new_price: 999,
       old_price: 1699,
     },
     {
       id: 7,
-      name: "Kids Knitted Sweater",
+      name: "Women's Cool Black Top",
       image: p11_img,
-      new_price: 899,
-      old_price: 1699,
+      new_price: 799,
+      old_price: 1599,
     },
 
     {
       id: 8,
-      name: "Kids Knitted Sweater",
+      name: "Men's Checked Shirt",
       image: p12_img,
       new_price: 899,
-      old_price: 1699,
+      old_price: 1999,
     },
 
   ];
