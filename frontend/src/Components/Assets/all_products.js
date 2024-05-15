@@ -1,19 +1,19 @@
-import p1_img from './men/jeans1.png'
-import p2_img from './men/jeans2.png'
-import p3_img from './men/jeans3.png'
-import p4_img from './men/jeans4.png'
-import p5_img from './men/joggers1.png'
-import p6_img from './men/joggers2.png'
-import p7_img from './men/joggers3.png'
-import p8_img from './men/joggers4.png'
-import p9_img from './men/shirt1.png'
-import p10_img from './men/shirt2.png'
-import p11_img from './men/shirt3.png'
-import p12_img from './men/shirt4.png'
-import p13_img from './men/shoe1.png'
-import p14_img from './men/shoe2.png'
-import p15_img from './men/shoe3.png'
-import p16_img from './men/shoe4.png'
+import p1_img from './men/p1_img.jpg'
+import p2_img from './men/p2_img.jpg'
+import p3_img from './men/p3_img.jpg'
+import p4_img from './men/p4_img.jpg'
+import p5_img from './men/p5_img.jpg'
+import p6_img from './men/p6_img.jpg'
+import p7_img from './men/p7_img.jpg'
+import p8_img from './men/p8_img.jpg'
+import p9_img from './men/p9_img.jpg'
+import p10_img from './men/p10_img.jpg'
+// import p11_img from './men/shirt3.png'
+// import p12_img from './men/shirt4.png'
+// import p13_img from './men/shoe1.png'
+// import p14_img from './men/shoe2.png'
+// import p15_img from './men/shoe3.png'
+// import p16_img from './men/shoe4.png'
 // import p16_img from './men/shoe4.png'
 // import p16_img from './men/shoe4.png'
 // import p16_img from './men/shoe4.png'
@@ -116,54 +116,54 @@ let data_product = [
           new_price: 44.99,
           old_price: 54.99
         },
-        {
-          id: 11,
-          name: "men's Midi Pleated Skirt",
-          category: "men",
-          image:p11_img,
-          new_price: 39.99,
-          old_price: 49.99
-        },
-        {
-          id: 12,
-          name: "Men's Classic Oxford Shirt",
-          category: "men",
-          image:p12_img,
-          new_price: 29.99,
-          old_price: 39.99
-        },
-        {
-          id: 13,
-          name: "men's Oversized Knit Sweater",
-          category: "men",
-          image:p13_img,
-          new_price: 49.99,
-          old_price: 59.99
-        },
-        {
-          id: 14,
-          name: "Men's Chino Trousers",
-          category: "men",
-          image:p14_img,
-          new_price: 34.99,
-          old_price: 44.99
-        },
-        {
-          id: 15,
-          name: "men's Ruffled Blouse",
-          category: "men",
-          image:p15_img,
-          new_price: 24.99,
-          old_price: 34.99
-        },
-        {
-          id: 16,
-          name: "Men's Quilted Vest",
-          category: "men",
-          image:p16_img,
-          new_price: 59.99,
-          old_price: 69.99
-        },
+        // {
+        //   id: 11,
+        //   name: "men's Midi Pleated Skirt",
+        //   category: "men",
+        //   image:p11_img,
+        //   new_price: 39.99,
+        //   old_price: 49.99
+        // },
+        // {
+        //   id: 12,
+        //   name: "Men's Classic Oxford Shirt",
+        //   category: "men",
+        //   image:p12_img,
+        //   new_price: 29.99,
+        //   old_price: 39.99
+        // },
+        // {
+        //   id: 13,
+        //   name: "men's Oversized Knit Sweater",
+        //   category: "men",
+        //   image:p13_img,
+        //   new_price: 49.99,
+        //   old_price: 59.99
+        // },
+        // {
+        //   id: 14,
+        //   name: "Men's Chino Trousers",
+        //   category: "men",
+        //   image:p14_img,
+        //   new_price: 34.99,
+        //   old_price: 44.99
+        // },
+        // {
+        //   id: 15,
+        //   name: "men's Ruffled Blouse",
+        //   category: "men",
+        //   image:p15_img,
+        //   new_price: 24.99,
+        //   old_price: 34.99
+        // },
+        // {
+        //   id: 16,
+        //   name: "Men's Quilted Vest",
+        //   category: "men",
+        //   image:p16_img,
+        //   new_price: 59.99,
+        //   old_price: 69.99
+        // },
         // {
         //   id: 17,
         //   name: "men's Embroidered Denim Jacket",
